@@ -1,4 +1,4 @@
-# Projeto IALG: Leitura e Escritas de Arquivos Binários em uma Consulta Farmacêutica 💊🔍
+# Projeto IALG: Leitura e Escrita de Arquivos Binários em uma Consulta Farmacêutica 💊🔍
 
 ****
 

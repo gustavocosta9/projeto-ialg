@@ -3,7 +3,9 @@
 ****
 
 Nome: Gustavo Costa
+
 Curso: Ciências da Computação
+
 Universidade Federal de Lavras (UFLA)
 
 
